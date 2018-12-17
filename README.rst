@@ -57,9 +57,3 @@ Useful example.
 
     loop = asyncio.get_event_loop()
     loop.run_until_complete(main(loop))
-
-
-Write and read with helpers:
-
-.. code-block:: python
-
