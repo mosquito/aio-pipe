@@ -1,6 +1,10 @@
 AIO-PIPE
 ========
 
+.. image:: https://img.shields.io/pypi/status/aio-pipe.svg
+    :target: https://github.com/mosquito/aio-pipe
+    :alt: Status
+
 .. image:: https://travis-ci.org/mosquito/aio-pipe.svg
     :target: https://travis-ci.org/mosquito/aio-pipe
     :alt: Travis CI
