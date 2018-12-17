@@ -19,7 +19,7 @@ AIO-PIPE
     :target: https://pypi.python.org/pypi/aio-pipe/
 
 
-Real asynchronous file operations with asyncio support.
+Asynchronous operations for unix pipes with asyncio support.
 
 
 Status
